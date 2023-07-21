@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const typedElement = document.querySelector('.typed-text');
   
-    const typed = new Typed(typedEement, {
+    const typed = new Typed(typedElement, {
       strings: ['React Developer', 'Learner', 'Photographer', 'Film Enthusiast', 'Web Developer'],
       typeSpeed: 80,
       backSpeed: 50,
