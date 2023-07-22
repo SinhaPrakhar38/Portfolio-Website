@@ -8,7 +8,7 @@ h1 {
 }
 
 /* Body styles */
-body {
+body{
   font-family: "Segoe UI Emoji", Arial, sans-serif;
   line-height: 1.5;
   background: linear-gradient(to bottom, #010a41, #ffffff);
